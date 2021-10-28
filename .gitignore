@@ -1,0 +1,10 @@
+
+*.pyc
+doomsday/__pycache__/algorithm.cpython-39.pyc
+doomsday/__pycache__/date.cpython-39.pyc
+*.pyc
+doomsday/__pycache__/__init__.cpython-39.pyc
+doomsday/__pycache__/algorithm.cpython-39.pyc
+doomsday/__pycache__/date.cpython-39.pyc
+
+doomsday/__pycache__/
